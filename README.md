@@ -11,7 +11,7 @@ En el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de G
 * Las personalidades múltiples de Freddy
 
 <div aling="center">
-	<img src="imagenes/git-push.gif"/>
+	<img src="https://i.ibb.co/1fhwysS/git-push.gif"/>
 	<p>Imagen que representa el git push entre el master remoto y el master local</p>
 </div>
 
